@@ -1,0 +1,17 @@
+{
+  "users": [
+    {"page": 1, "id": 1, "dataPerPage": 3, "totalData": 7, "totalPage": 3, "success": true, "payload": {
+      "5c587eaf-dd61-4f1b-a911-fb1a05f4c946": {"userId": 1, "userGuid": "5c587eaf-dd61-4f1b-a911-fb1a05f4c946", "firstName": "Wiyanto", "lastName": "Tan", "email": "wiyantotan@gmail.com", "username": "wiyantotan", "isActive": true, "pin": "123456", "gender": "Male", "mobile": "08569829687", "dob": "1980-03-15", "role": "8bdf1f4b-d103-49d7-9a16-1800da87e443"},
+      "b3063e4a-2b43-4541-86a1-2a1c8fcef2a2": {"userId": 2, "userGuid": "b3063e4a-2b43-4541-86a1-2a1c8fcef2a2", "firstName": "Elliot", "lastName": "", "email": "", "username": "elliot", "isActive": true, "pin": "999888", "gender": "Female", "mobile": "08374992733", "dob": "1968-01-30", "role": "8edb3460-6835-46e7-8911-f2091906f309"},
+      "461225fb-bca5-44d1-b1d6-3c33f5d30b86": {"userId": 3, "userGuid": "461225fb-bca5-44d1-b1d6-3c33f5d30b86", "firstName": "Ribekah", "lastName": "", "email": "", "username": "ribekah", "isActive": true, "pin": "111222", "gender": "Male", "mobile": "08129384794", "dob": "1989-04-21", "role": "00363d4f-a0ae-4648-9454-d587ef7a4952"}
+    }},
+    {"page": 2, "id": 2, "dataPerPage": 3, "totalData": 7, "totalPage": 3, "success": true, "payload": {
+      "461225fb-bca5-44d1-b1d6-3c33f5d30b86": {"userId": 3, "userGuid": "461225fb-bca5-44d1-b1d6-3c33f5d30b86", "firstName": "Ribekah", "lastName": "", "email": "", "username": "ribekah", "isActive": true, "pin": "111222", "gender": "Male", "mobile": "08129384794", "dob": "1989-04-21", "role": "00363d4f-a0ae-4648-9454-d587ef7a4952"},
+      "5c587eaf-dd61-4f1b-a911-fb1a05f4c946": {"userId": 1, "userGuid": "5c587eaf-dd61-4f1b-a911-fb1a05f4c946", "firstName": "Wiyanto", "lastName": "Tan", "email": "wiyantotan@gmail.com", "username": "wiyantotan", "isActive": true, "pin": "123456", "gender": "Male", "mobile": "08569829687", "dob": "1980-03-15", "role": "8bdf1f4b-d103-49d7-9a16-1800da87e443"},
+      "b3063e4a-2b43-4541-86a1-2a1c8fcef2a2": {"userId": 2, "userGuid": "b3063e4a-2b43-4541-86a1-2a1c8fcef2a2", "firstName": "Elliot", "lastName": "", "email": "", "username": "elliot", "isActive": true, "pin": "999888", "gender": "Female", "mobile": "08374992733", "dob": "1968-01-30", "role": "8edb3460-6835-46e7-8911-f2091906f309"}
+    }},
+    {"page": 3, "id": 3, "dataPerPage": 3, "totalData": 7, "totalPage": 3, "success": true, "payload": {
+      "b3063e4a-2b43-4541-86a1-2a1c8fcef2a2": {"userId": 2, "userGuid": "b3063e4a-2b43-4541-86a1-2a1c8fcef2a2", "firstName": "Elliot", "lastName": "", "email": "", "username": "elliot", "isActive": true, "pin": "999888", "gender": "Female", "mobile": "08374992733", "dob": "1968-01-30", "role": "8edb3460-6835-46e7-8911-f2091906f309"}
+    }}
+  ]
+}

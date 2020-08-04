@@ -13,5 +13,11 @@
     {"page": 3, "id": 3, "dataPerPage": 3, "totalData": 7, "totalPage": 3, "success": true, "payload": {
       "b3063e4a-2b43-4541-86a1-2a1c8fcef2a2": {"userId": 2, "userGuid": "b3063e4a-2b43-4541-86a1-2a1c8fcef2a2", "firstName": "Elliot", "lastName": "", "email": "", "username": "elliot", "isActive": true, "pin": "999888", "gender": "Female", "mobile": "08374992733", "dob": "1968-01-30", "role": "8edb3460-6835-46e7-8911-f2091906f309"}
     }}
-  ]
+  ],
+  "timezone": {
+    "+07:00": {"tzOffset": "+07:00", "tzName": "(+07:00) Bangkok, Hanoi, Jakarta"},
+    "+08:00": {"tzOffset": "+08:00", "tzName": "(+08:00) Kuala Lumpur, Singapore"},
+    "+12:00": {"tzOffset": "+12:00", "tzName": "(+12:00) Fiji"},
+    "+04:30": {"tzOffset": "+04:30", "tzName": "(+04:30) Kabul"}
+  }
 }

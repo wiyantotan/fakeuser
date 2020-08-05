@@ -21,5 +21,61 @@
       "+12:00": {"tzOffset": "+12:00", "tzName": "(+12:00) Fiji"},
       "+04:30": {"tzOffset": "+04:30", "tzName": "(+04:30) Kabul"}
     }
+  },
+  "companydata": {
+    "success": true, "message": "Success get timezone", "payload": {
+      "first_name": "Wiyanto",
+      "last_name": "Tan",
+      "registPhone": "+628569892867",
+      "registemail": "wiyantotan@gmail.com",
+      "activeUntil": "2021-08-08 20:00:00+00:00",
+      "activeType": "ACTIVE",
+      "companyName": "Extrashoot Coffee",
+      "timezone": "+07:00",
+      "address": "Jl. Pluit Karang Jelita 2 No. 37",
+      "city": "Jakarta Utara",
+      "province": "DKI Jakarta",
+      "postalCode": "14450",
+      "countryId": "97",
+      "companyPhone": "+62569485968",
+      "companyEmail": "company@email.com",
+      "taxNumber": "74649397494005",
+      "taxName": "Extrashoot Coffee Inc.",
+      "rcptLocName": "Extrashoot 18hours",
+      "rcptAddress": "Jl. Pluit Karang Jelita 2 No. 37",
+      "rcptCity": "Jakarta Utara",
+      "rcptProvince": "DKI Jakarta",
+      "rcptPostalCode": "14450",
+      "rcptCountry": "97",
+      "rcptPhone": "+6294995084",
+      "rcptEmail": "extashoot@gmail.com",
+      "rcptWeb": "https://extrashoot.coffee",
+      "currency": "IDR",
+      "currencySymbol": "Rp",
+      "symbolPosition": "LEFT",
+      "decimalSeparator": ".",
+      "decimalPlaces": "0",
+      "roundingCash": "500",
+      "roundingDirection": "",
+      "disableRoundingNotCash": true,
+      "taxEnable": true,
+      "taxIncludeInPrice": false,
+      "taxProfileId": "11",
+      "priceChangePin": "20",
+      "priceChangeNoPin": "5"
+    }
+  },
+  "taxProfiles": {
+    "success": true, "message": "Success get timezone", "payload": {
+      "10": { "profileId": "10", "profileName": "PB1", "tax": {
+          "10": {"taxId": "10", "taxName": "Tax", "amountPerc": "10", "isStack": false, "order": 1}
+        }
+      },
+      "11": { "profileId": "11", "profileName": "Tax & Service", "tax": {
+        "11": {"taxId": "11", "taxName": "Tax", "amountPerc": "10", "isStack": false, "order": 2},
+        "12": {"taxId": "12", "taxName": "Service", "amountPerc": "7", "isStack": true, "order": 1}
+        }
+      }
+    }
   }
 }

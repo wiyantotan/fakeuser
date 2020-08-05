@@ -55,6 +55,7 @@
       "symbolPosition": "LEFT",
       "decimalSeparator": ".",
       "decimalPlaces": "0",
+      "qtyDecimalPlaces": "0",
       "roundingCash": "500",
       "roundingDirection": "",
       "disableRoundingNotCash": true,

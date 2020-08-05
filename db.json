@@ -23,7 +23,7 @@
     }
   },
   "companydata": {
-    "success": true, "message": "Success get timezone", "payload": {
+    "success": true, "message": "Success get company data", "payload": {
       "first_name": "Wiyanto",
       "last_name": "Tan",
       "registPhone": "+628569892867",
@@ -66,7 +66,7 @@
     }
   },
   "taxProfiles": {
-    "success": true, "message": "Success get timezone", "payload": {
+    "success": true, "message": "Success get tax profile", "payload": {
       "10": { "profileId": "10", "profileName": "PB1", "tax": {
           "10": {"taxId": "10", "taxName": "Tax", "amountPerc": "10", "isStack": false, "order": 1}
         }
@@ -76,6 +76,13 @@
         "12": {"taxId": "12", "taxName": "Service", "amountPerc": "7", "isStack": true, "order": 1}
         }
       }
+    }
+  },
+  "country": {
+    "success": true, "message": "Success get country", "payload": {
+      "42": {"countryId": "42", "countryName": "China", "iso2Code": "CN", "iso3Code": "CHN", "phoneCode": "+86-", "currency": "CNY", "symbol": "¥"},
+      "97": {"countryId": "97", "countryName": "Indonesia", "iso2Code": "ID", "iso3Code": "IDN", "phoneCode": "+62-", "currency": "IDR", "symbol": "Rp"},
+      "127": {"countryId": "127", "countryName": "MALDIVES", "iso2Code": "MV", "iso3Code": "MDV", "phoneCode": "+960-", "currency": "MVR", "symbol": "Rf"}
     }
   }
 }

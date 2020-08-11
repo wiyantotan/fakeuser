@@ -73,8 +73,12 @@
         }
       },
       "11": { "profileId": "11", "profileName": "Tax & Service", "tax": {
-        "11": {"taxId": "11", "taxName": "Tax", "amountPerc": "10", "isStack": false, "order": 2},
-        "12": {"taxId": "12", "taxName": "Service", "amountPerc": "7", "isStack": true, "order": 1}
+        "11": {"taxId": "11", "taxName": "Tax11", "amountPerc": "10", "isStack": false, "order": 2},
+        "12": {"taxId": "12", "taxName": "Service12", "amountPerc": "7", "isStack": true, "order": 1},
+        "13": {"taxId": "13", "taxName": "Service13", "amountPerc": "8", "isStack": true, "order": 3},
+        "14": {"taxId": "14", "taxName": "Service14", "amountPerc": "2", "isStack": true, "order": 6},
+        "15": {"taxId": "15", "taxName": "Service15", "amountPerc": "3.5", "isStack": true, "order": 4},
+        "16": {"taxId": "16", "taxName": "Service16", "amountPerc": "2.35", "isStack": true, "order": 5}
         }
       }
     }
